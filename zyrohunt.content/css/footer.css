@@ -1,0 +1,7 @@
+/********** Zyrohunt Boilerplate (www.zyrohunt.com) **********/
+
+/*****************************************/
+  /**************** Footer *****************/
+  /*****************************************/
+
+.footer{background-color:#fafafa}.footer-content{display:flex;align-items:center;flex-direction:column;flex-wrap:nowrap}.footer-social{margin-bottom:20px}.footer-copyright p{color:#2e2e2e;font-size:16px;line-height:1.7;font-family:Inter,sans-serif;font-weight:400;letter-spacing:normal;font-style:normal}.footer-social .footer_social-links{padding-right:28px;display:inline-flex;align-items:center;justify-content:center;line-height:1;color:#2e2e2e;transition:color .2s ease}.footer-social .footer_social-links:last-child{padding:0}.footer-social .footer_social-links svg{width:32px;height:32px}.footer-social .footer_social-links:hover{color:#000}
